@@ -1,0 +1,18 @@
+{
+    "serverPort": 8080,
+    "emailAccounts": {
+        "Canon": {
+            "categoryID": "CANON",
+            "type": "IMAP",
+            "user": "chetanpatel_18@outlook.com",
+            "password": "chetan18",
+            "host": "outlook.office365.com",
+            "port": 993,
+            "tls": true,
+            "projectID":"canon-uugfvv",
+            "custom": {
+                
+            }
+        }
+    }
+}

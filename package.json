@@ -1,0 +1,20 @@
+{
+  "name": "Task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Fetch.js",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "imapflow": "^1.0.47",
+    "mailcomposer": "^4.0.2",
+    "mailparser": "^2.7.7",
+    "nodemailer": "^6.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
